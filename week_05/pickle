@@ -1,0 +1,4 @@
+import pickle
+
+with open("filepath", r/w) as fp 
+    data = pickle.load(fp)
